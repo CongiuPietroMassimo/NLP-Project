@@ -1,0 +1,1 @@
+.\Facebook-Bart_Dev_results.json	0.42857142857142855	0.28095238095238095
