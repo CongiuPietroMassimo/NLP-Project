@@ -2,9 +2,13 @@
  
 This file contains the most important information about this repository
 
+All notebooks runs locally. Instruction to run the scorers are in the challenge readme
+
 This repository contains the original challenge, zipped and unzipped:
 ./clef2024-checkthat-lab-main-task5
 ./clef2024-checkthat-lab-main-task5.zip
+
+./dev_qrels -> File used for evaluating the evidence retrieval
 
 ./Documents -> contains the presentation of the project
 
